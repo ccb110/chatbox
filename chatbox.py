@@ -9,3 +9,5 @@ def quicksort(array):
         return quicksort(less) + [pivot] + quicksort(greater)
 abc = [10, 5, 2, 3]
 print(quicksort(abc))
+print('abc  = ', abc)
+

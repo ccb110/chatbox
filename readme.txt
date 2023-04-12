@@ -1,1 +1,1 @@
-try ssh chatbox
+understand how ssh works
